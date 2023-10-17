@@ -3,7 +3,11 @@
   "displayName": "Dark Halloween",
   "description": "A simple dark theme for Halloween",
   "publisher": "naberens",
-  "license": "MIT",
+  "license": "MIT",	
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/berensn/halloween"
+	},
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.83.0"
