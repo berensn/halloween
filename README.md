@@ -13,7 +13,7 @@ On Mac it might look something like the snippet below:
 
 {∏
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/naberens.dark-halloween-0.3.0/cursive-style.css"
+    "file:///Users/{your username}/.vscode/extensions/naberens.dark-halloween-0.4.0/cursive-style.css"
     ]
 }
 
@@ -21,7 +21,7 @@ Windows might resemble:
 
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/naberens.dark-halloween-0.2.0/cursive-style.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/naberens.dark-halloween-0.4.0/cursive-style.css"
     ]
 }
 ```
