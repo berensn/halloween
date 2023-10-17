@@ -1,10 +1,10 @@
 {
   "name": "dark-halloween",
   "displayName": "Dark Halloween",
-  "description": "A simple dark orange theme for Halloween",
+  "description": "A simple dark theme for Halloween",
   "publisher": "naberens",
   "license": "MIT",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -12,12 +12,10 @@
     "Themes"
   ],
   "keywords": [
-    "icon-theme",
     "theme",
     "Halloween",
     "orange",
-    "dark",
-    "naberens"
+    "dark"
   ],
   "contributes": {
     "themes": [

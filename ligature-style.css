@@ -1,0 +1,27 @@
+.type.storage,.type.storage.declaration, .storage.class.modifier, .mtki, .mtk28 {
+  font-family: 'Victor Mono';
+  font-size: 1.1em;
+}
+
+.type.storage.arrow.function {
+  font-family: 'Operator Mono';
+}
+
+.decorator.name, .decorator.punctuation:not(.block), .import.keyword {
+    font-family: 'Victor Mono';
+    font-size: 1.1em;
+}
+.attribute-name {
+    font-family: 'Victor Mono';
+    font-size: 1.1em;
+}
+
+.comment:not(.punctuation) {
+    font-family: 'Operator Mono';
+    font-size: 1.1em;
+}
+
+.mtk30{
+  font-family: 'Operator Mono' !important;
+  font-size: 1.1em;
+}
